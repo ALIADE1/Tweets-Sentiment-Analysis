@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+env/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Data files (too large for git)
+*.csv
+
+# Model files (too large for git — use Git LFS or upload to Google Drive)
+*.h5
+*.keras
+*.pkl
+
+# OS
+.DS_Store
+Thumbs.db
