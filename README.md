@@ -152,16 +152,6 @@ Results (plots + metrics) will be saved to the `results/` folder.
 
 ---
 
-## Tech Stack
-
-- **Python** — Core language
-- **TensorFlow / Keras** — Deep learning framework
-- **scikit-learn** — Data splitting & evaluation metrics
-- **Pandas / NumPy** — Data manipulation
-- **Matplotlib / Seaborn** — Visualization
-- **Gradio** — Interactive web demo
-
----
 
 ## Future Improvements
 
