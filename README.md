@@ -123,13 +123,6 @@ venv\Scripts\activate           # Windows
 pip install -r requirements.txt
 ```
 
-### Download Model Files
-
-The trained model and tokenizer are not included in git due to size.
-Download them from the [Releases](https://github.com/YOUR_USERNAME/Tweets-Sentiment-Analysis/releases) page and place them in the project root:
-- `sentiment_model.h5` (~8 MB)
-- `tokenizer.pkl` (~19 MB)
-
 ### Run the Demo
 
 ```bash
